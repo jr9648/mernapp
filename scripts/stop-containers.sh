@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd /home/mubin/devopspipeline
+cd /home/mern/devopspipeline
 sudo cp -r build/* nginx
 
 if ! docker info > /dev/null 2>&1; then

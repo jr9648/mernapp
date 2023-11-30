@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /home/mubin/devopspipeline
+cd /home/mern/devopspipeline
 
 docker-compose build
 docker-compose up -d
