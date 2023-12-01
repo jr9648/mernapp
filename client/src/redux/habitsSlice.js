@@ -5,8 +5,9 @@ import toast from 'react-hot-toast';
 
 import { startOfWeek, endOfWeek } from "date-fns";
 
-const apiUrl = 'https://habitsaapp.onrender.com';
+// const apiUrl = 'https://habitsaapp.onrender.com';
 // const apiUrl = 'http://localhost:8000'
+const apiUrl = 'http://13.234.111.167:80';
 
 
 
