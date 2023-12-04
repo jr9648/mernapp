@@ -7,7 +7,7 @@ import { startOfWeek, endOfWeek } from "date-fns";
 
 // const apiUrl = 'https://habitsaapp.onrender.com';
 // const apiUrl = 'http://localhost:8000'
-const apiUrl = 'http://13.234.111.167:80';
+const apiUrl = 'http://13.233.113.234:3001';
 
 
 
